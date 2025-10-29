@@ -1,0 +1,154 @@
+{
+  "regions:Northern Counties": {
+    "rep": "Northern",
+    "color": "#1667d2"
+  },
+  "regions:North West": {
+    "rep": "North West",
+    "color": "#16d066"
+  },
+  "regions:Yorkshire": {
+    "rep": "Yorkshire",
+    "color": "#9e8a42"
+  },
+  "regions:East Midlands": {
+    "rep": "East Midlands",
+    "color": "#ea1fbe"
+  },
+  "regions:West Midlands": {
+    "rep": "West Midlands",
+    "color": "#d2ea1f"
+  },
+  "regions:Home Counties": {
+    "rep": "Home counties",
+    "color": "#ff0000"
+  },
+  "regions:Southern Counties": {
+    "rep": "Southern Counties",
+    "color": "#00bfff"
+  },
+  "regions:Greater London": {
+    "rep": "Greater London",
+    "color": "#8d5cff"
+  },
+  "regions:Wales": {
+    "rep": "Wales",
+    "color": "#0008ff"
+  },
+  "regions:Northern Ireland": {
+    "rep": "Northern Ireland",
+    "color": "#2bff00"
+  },
+  "postcodes:BT": {
+    "rep": "NI",
+    "color": "#ff8800"
+  },
+  "postcodes:Scotland": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:PH": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:PA": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:KA": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:ML": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:TD": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:EH": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:G": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:KY": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:FK": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:DD": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:KW": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:IV": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:AB": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:HS": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:DG": {
+    "rep": "Scotland",
+    "color": "#ff00ea"
+  },
+  "postcodes:South West": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:EX": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:TR": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:PL": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:TQ": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:DT": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:BA": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:BS": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:GL": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:SN": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  },
+  "postcodes:TA": {
+    "rep": "South West",
+    "color": "#00ffbf"
+  }
+}
